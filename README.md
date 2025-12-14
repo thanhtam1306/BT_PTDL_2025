@@ -1,4 +1,4 @@
-# Bài tập Phân tích Dữ liệu
+# Bài tập Phân tích Dữ liệu 2025
 
 ## Mô tả
 Repo này chứa các bài tập và dự án nhỏ về **Phân tích Dữ liệu (Data Analysis)**, bao gồm:
@@ -14,23 +14,17 @@ Các bài tập được thực hiện bằng **Python** với các thư viện 
 
 ## Cấu trúc thư mục
 bt_tuan_ptdl/
-├─ lab1_Nguyễn Hoàng Thanh Tâm_3122410371/
-├─ lab2_Nguyễn Hoàng Thanh Tâm_3122410371/
-├─ Lab03 - Thuat toan phan cum/
-├─ DA03 - Phan Tich Khâm Pha Du Lieu/ 
-├─ DA04 - Feature Engineering/ 
-├─ DA05 - Model Algorithms/ ex01_iris_classification/ 
-├─ DA06_baitoanphanlop_Nguyễn Hoàng Thanh Tâm_3122410371/ 
-├─ DA07 - Phan tích du lieu tai chinh/ 
-├─ DA08 - Tri tue nhan tao trong tai chinh/ 
-└─ [Thực hành] Tính toán phục hồi quy tuyến tính + logistic/ 
+├─ lab1_Nguyen_Hoang_Thanh_Tam_3122410371/
+├─ lab2_Nguyen_Hoang_Thanh_Tam_3122410371/
+├─ Lab03_Thuat_toan_phan_cum/
+├─ DA03_Phan_tich_kham_pha_du_lieu/
+├─ DA04_Feature_Engineering/
+├─ DA05_Model_Algorithms/
+├─ DA06_Baitoanphanlop_Nguyen_Hoang_Thanh_Tam_3122410371/
+├─ DA07_Phan_tich_du_lieu_tai_chinh/
+├─ DA08_AI_trong_tai_chinh/
+└─ Thuc_hanh_Hoi_quy_tuyen_tinh_logistic/
 
----
-
-## Hướng dẫn sử dụng
-1. **Clone repo về máy:**
-```bash
-git clone https://github.com/thanhtam1306/BT_PTDL_2025.git
 
 ---
 
@@ -38,4 +32,4 @@ git clone https://github.com/thanhtam1306/BT_PTDL_2025.git
 
 - Tác giả: Nguyễn Hoàng Thanh Tâm  
 - Email: tamnguyen130620004@gmail.com  
-- GitHub: https://github.com/thanhtam1306
+- GitHub: https://github.com/thanhtam1306/BT_PTDL_2025.git
